@@ -9,11 +9,7 @@ import urllib
 import twitter
 import re
 
-consumer_key = "ekX1LQ6hhCFVlQkIdYrUBd3uG"
-consumer_secret = "uP0c6UpNwVVtF7kZ3mZluqzAXscC2HnQNMiuEyYpL3mvZpo3L7"
 
-access_token_key = "1573657982-cQjZ6Md6wauaADJulkSJF1qta9ZqXjtduVgL6bg"
-access_token_secret = "xPf5IRWAsOkEgeh7bOCttVJfWUgFo5BM5jRRdAg9RB3PJ"
 
 ORIGINAL_USER_NAME = 'ScottsFlowerNYC'
 ORIGINAL_USER_ID = '211262113'
